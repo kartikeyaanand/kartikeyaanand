@@ -43,7 +43,9 @@ Feel free to reach out to me at:-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyaanand7) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kartikeyaanand7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19844406) 
 
-[![Kartikeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikeyaanand)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Kartikeya's GitHub Activity Graph**
+
+[![Kartikeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikeyaanand&theme=react-dark&hide_border=True)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💻 Tech Stack:
 
