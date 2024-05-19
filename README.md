@@ -5,7 +5,7 @@
 | Data Science | Info-Sec | Elasticsearch | ML | AI | MLOps | Deep Learning |<br><be>
 - Passionate about leveraging Data Science, Info-Sec, Machine Learning, AI and Deep Learning to solve & secure real-world problems<br><br>
 - I am currently working as a Security Analyst at Zee, where I utilize Python and data analysis to combat piracy<br><br>
-- 🌱 I’m currently learning **Scaler's Data Science & Machine Learning Certification**<br><be>
+- 🌱 I’m currently learning *Scaler's Data Science & Machine Learning Certification*<br><be>
 - I'm skilled in Cyber Security, Python, Data Science & Analytics, SQL, Power BI, Tableau, Machine Learning, Cloud Security, cloud platforms (Azure, AWS, GCP), WAF, Log Analytics, and Elasticsearch.<br><be>
 - Open to collaboration and eager to learn from experienced data scientists!💞️<br><be>
 - Looking forward to collaborating on end-to-end projects.<br><be>
