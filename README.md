@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kartikeya Anand</h1>
-<h3 align="center">A Data Ninja who loves unlocking Insights & Security</h3>
-<h3 align="center">I'm practicing Info-Sec & Data Science</h3>
+<h1 align="left">Hi 👋, I'm Kartikeya Anand</h1>
+<h3 align="left">A Data Ninja who loves unlocking Insights & Security</h3>
+<h3 align="left">I'm practicing Info-Sec & Data Science</h3>
 
-# 💫 About Me:
+**Here's a little about me:-**
 I'm a passionate data scientist and security professional with a strong foundation in various technologies. I leverage my expertise in:
 
 * Data Science
