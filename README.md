@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Anand</h1>
-<h3 align="center">I'm a Security Analyst and a Data Science Practitioner.</h3>
-
+<h3 align="center">I'm a Info-Sec & a Data Science Practitioner.</h3>
+<h3 align="center">Data Ninja | Unlocking Insights & Security</h3>
 # 💫 About Me:
-Data Ninja | Unlocking Insights & Security | Data Science | Info-Sec | Elasticsearch | ML | AI | MLOps | Deep Learning |<br><be>
+| Data Science | Info-Sec | Elasticsearch | ML | AI | MLOps | Deep Learning |<br><be>
 - Passionate about leveraging Data Science, Info-Sec, Machine Learning, AI and Deep Learning to solve & secure real-world problems<br><br>
 - I am currently working as a Security Analyst at Zee, where I utilize Python and data analysis to combat piracy<br><br>
 - 🌱 I’m currently learning **Scaler's Data Science & Machine Learning Certification**<br><be>
 - I'm skilled in Cyber Security, Python, Data Science & Analytics, SQL, Power BI, Tableau, Machine Learning, Cloud Security, cloud platforms (Azure, AWS, GCP), WAF, Log Analytics, and Elasticsearch.<br><be>
-- Open to collaboration and eager to learn from experienced data scientists!<br><be>💞️
+- Open to collaboration and eager to learn from experienced data scientists!💞️<br><be>
 - Looking forward to collaborating on end-to-end projects.<br><be>
--📫 You can reach out to me at E-mail:- kartikeyaanand7@gmail.com, Contact No.+91 8449517715
+- 📫 You can reach out to me at E-mail:- kartikeyaanand7@gmail.com, Contact No.+91 8449517715
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyaanand7) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kartikeyaanand7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19844406) 
