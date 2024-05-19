@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Anand</h1>
-<h3 align="center">I'm a Info-Sec & a Data Science Practitioner.</h3>
-<h3 align="center">Data Ninja | Unlocking Insights & Security</h3>
+<h3 align="center">A Data Ninja who loves unlocking Insights & Security</h3>
+<h3 align="center">I'm practicing Info-Sec & Data Science</h3>
 # 💫 About Me:
 | Data Science | Info-Sec | Elasticsearch | ML | AI | MLOps | Deep Learning |<br><be>
 - Passionate about leveraging Data Science, Info-Sec, Machine Learning, AI and Deep Learning to solve & secure real-world problems<br><br>
